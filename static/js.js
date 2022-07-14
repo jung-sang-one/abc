@@ -1,0 +1,1 @@
+// if 문이나 function 또는 const $descending사용 해서 연결하는 자바스크립트 페이지
